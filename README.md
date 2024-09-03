@@ -1,5 +1,5 @@
 # PRODIGY_ML_03
-Hi this is Ayush Singh and this is my repository for the tasks given to me by the IT company "PRODIGY INFOTECH" where i am currently working as a "MACHINE LEARNING INTERN". The ML_03 repository consists of the task 03
+Hi this is Ayush Singh and this is my repository for the tasks given to me by the IT company "BHARAT INTERN" where i am currently working as a "DATA SCIENCE INTERN". The 03 repository consists of the task 03
 Project Title: Image Classification of Cats and Dogs using Support Vector Machine
 Objective:
 The primary objective of this project is to implement a Support Vector Machine (SVM) to classify images of cats and dogs. By leveraging the SVM algorithm, we aim to achieve high accuracy in distinguishing between the two categories using image data from the Kaggle Cats and Dogs dataset.
@@ -38,4 +38,4 @@ The project underscores the importance of feature extraction and preprocessing i
 
 Through this project, I have gained valuable experience in working with image data, preprocessing techniques, and implementing SVM for classification. The insights derived from this project highlight the potential of SVM in real-world applications involving image recognition and classification.
 
-I am grateful to Prodigy Infotech for providing me with the opportunity to undertake this project as part of their Machine Learning Internship Program. Their guidance and support have been pivotal in the successful completion of this project.
+I am grateful to Bharat Intern for providing me with the opportunity to undertake this project as part of their Machine Learning Internship Program. Their guidance and support have been pivotal in the successful completion of this project.
