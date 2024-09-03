@@ -1,4 +1,4 @@
-# PRODIGY_ML_03
+
 Hi this is Ayush Singh and this is my repository for the tasks given to me by the IT company "BHARAT INTERN" where i am currently working as a "DATA SCIENCE INTERN". The 03 repository consists of the task 03
 Project Title: Image Classification of Cats and Dogs using CNN
 Objective:
