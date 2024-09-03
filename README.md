@@ -1,8 +1,8 @@
 # PRODIGY_ML_03
 Hi this is Ayush Singh and this is my repository for the tasks given to me by the IT company "BHARAT INTERN" where i am currently working as a "DATA SCIENCE INTERN". The 03 repository consists of the task 03
-Project Title: Image Classification of Cats and Dogs using Support Vector Machine
+Project Title: Image Classification of Cats and Dogs using CNN
 Objective:
-The primary objective of this project is to implement a Support Vector Machine (SVM) to classify images of cats and dogs. By leveraging the SVM algorithm, we aim to achieve high accuracy in distinguishing between the two categories using image data from the Kaggle Cats and Dogs dataset.
+The primary objective of this project is to implement a CNN to classify images of cats and dogs. By leveraging the CNN algorithm, we aim to achieve high accuracy in distinguishing between the two categories using image data from the Kaggle Cats and Dogs dataset.
 
 Project Description:
 In this project, we focus on building a robust image classification model using the Support Vector Machine (SVM) algorithm. The dataset utilized for this project is the popular Kaggle Cats and Dogs dataset, which consists of labeled images of cats and dogs.
